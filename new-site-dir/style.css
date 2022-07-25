@@ -1,0 +1,101 @@
+/*background picture*/
+body {
+    color: #d2b48c;
+}
+
+/*mainbody font*/
+.font {
+    font-family: 'Quicksand', sans-serif;
+}
+
+/*title*/
+h1 {
+    font-family: 'Quicksand', sans-serif;
+    margin: center;
+    background-color: yellow;
+    text-align: center;
+    letter-spacing: 10px;
+    color: rgba(218, 12, 240, 0.75);
+    font-style: italic;
+    text-shadow: 3px -2px #ff0000;
+}
+
+/*sub-title*/
+
+h2 {
+    font-size: 20px;
+    color: red;
+    text-align: center;
+    background-color:
+    font-family: 'Quicksand', sans-serif;
+    background-color: rgba(0, 239, 255, .25);
+}
+
+/*mainlink*/
+h3 {
+    margin-left: 15px;
+    color: purple;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+h4 {
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 15px;
+    color: purple;
+    font-weight: 900;
+    font-size: 25px;
+    padding-left: 15px;
+}
+
+.display {
+    text-align: center;
+    margin-top: 50px;
+    margin-left:20%;
+    margin-right:20%;
+}
+
+.button-container {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.button {
+    background-color: #3333e0;
+    color: #ffffff;
+    padding: 8px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.button:hover {
+    background-color: #0000ca;
+    cursor: pointer;
+}
+
+/*main-body*/
+p {
+    color: red;
+    font-size: 18px;
+    background-color: ;
+    line-height: 20px;
+
+}
+
+/*indexpicture*/
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: black;
+}
+
+.timestamp {
+  display: block;
+  color: blue;
+  size: 5px;
+}
+
+}
